@@ -1,0 +1,23 @@
+
+{                                                                                
+  "name": "be.eloistree.openmacroinputcoredll",                              
+  "displayName": "Open Macro Input Tested DLL Core",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "This package is a group of DLL tested in visual studio to be used in Unity3D.",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples" : [],     
+  "author" : {
+"name":"",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"https://github.com/EloiStree/2021_10_23_OMI_Dll_Package.git",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 

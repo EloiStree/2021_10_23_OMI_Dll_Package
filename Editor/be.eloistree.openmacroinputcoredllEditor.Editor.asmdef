@@ -1,0 +1,16 @@
+
+{                                                                   
+            "name": "be.eloistree.openmacroinputcoredllEditor",          
+    "references": ["be.eloistree.openmacroinputcoredll"
+],                                                              
+    "optionalUnityReferences": [],                                  
+    "includePlatforms": [                                           
+        "Editor"                                                    
+    ],                                                              
+    "excludePlatforms": [],                                         
+    "allowUnsafeCode": false,                                       
+    "overrideReferences": false,                                    
+    "precompiledReferences": [],                                    
+    "autoReferenced": true,                                         
+    "defineConstraints": []                                         
+}                                                                   
